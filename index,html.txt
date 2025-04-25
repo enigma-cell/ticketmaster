@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Contact Us – Ticketmaster. Help</title>
+    <link rel="stylesheet" href="https://help.ticketmaster.com/hc/en-us/styles/main.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="https://help.ticketmaster.co/hc/en-us/articles/9605825450129-How-to-Contact-Us">How to Contact Us</a></li>
+                <li><a href="https://help.ticketmaster.co/hc/en-us/articles/9605825450129-How-to-Contact-Us">Submit a Request</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h1>Contact Us</h1>
+            <p>We're here to help. For any questions, get in touch with us by email, chat, or phone.</p>
+            <section>
+                <h2>Have a question? Search our Help articles</h2>
+                <p>Explore our articles to find answers to frequently asked questions:</p>
+                <ul>
+                    <li><a href="https://help.ticketmaster.co/hc/en-us/articles/9605825450129-How-to-Contact-Us">How are ticket prices and fees determined?</a></li>
+                    <li><a href="https://help.ticketmaster.co/hc/en-us/articles/9605825450129-How-to-Contact-Us">My ticket isn't working in my Apple Wallet. What should I do?</a></li>
+                    <li><a href="https://help.ticketmaster.co/hc/en-us/articles/9605825450129-How-to-Contact-Us">How do I use Mobile Entry tickets?</a></li>
+                </ul>
+            </section>
+            <section>
+                <h2>Already have tickets? Chat with us</h2>
+                <p>Sign in to your account, find your order in "My Tickets," and select the Chat icon to start a conversation with our support team.</p>
+            </section>
+            <section>
+                <h2>Don't have tickets or can't sign in? Email us</h2>
+                <p>If you don't have tickets to an event yet, need to reset your password, or can't access your account, please submit a request form.</p>
+                <a href="https://help.ticketmaster.co/hc/en-us/requests/new">Submit a Request</a>
+            </section>
+            <section>
+                <h2>Want to reach us by phone? Call us</h2>
+                <p>Call us at 1800 6239 543 609 during the following hours:</p>
+                <ul>
+                    <li>Monday through Friday: 9 a.m. to 8:30 p.m. (local time)</li>
+                    <li>Saturday: 9 a.m. to 7 p.m. (local time)</li>
+                    <li>Sunday: 9 a.m. to 6 p.m. (local time)</li>
+                </ul>
+                <p><em>Note: Alaska and Hawaii follow Pacific Time Zone hours of operation.</em></p>
+            </section>
+        </article>
+    </main>
+    <footer>
+        <p>&copy; 2025 Ticketmaster.. All rights reserved.</p>
+    </footer>
+</body>
+</html>
